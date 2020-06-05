@@ -1,5 +1,4 @@
 # mvc-fgp
 Desenvolvimento de Aplicação Web e Mobile
 
-Kevin de Aro
-Diego Flores
+Kevin de Aro // Diego Flores
